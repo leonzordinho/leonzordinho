@@ -7,11 +7,10 @@
 
 ### Here are something I've been working on:
 
-- 🔭 I’m currently looking for a job! Beyoncè said me to leave the last one!
+- 🔭 I’m currently looking for a job!
 - 🌱 I’m learning about data base and enhance my data analysis knowledge, like SQL and Python, for example.
-- 👯 I’m looking to collaborate
+- 👯 I’m looking to collaborate in new projects.
 - 💬 Ask me about anything! Seriously! 
 - 📫 How to reach me: nardoandrade@outlook.com or at https://www.linkedin.com/in/andrade-leonardo/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Shitzus are the closest to wolves than the other dogs! Besides huskys, of course.
 -->
